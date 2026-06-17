@@ -100,7 +100,7 @@ SaiketSystems/
 │
 ├── Task5_TextAnalyzer/
 │   ├── TextFileAnalyzer.java
-│   ├── sample_text.txt                ← Auto-generated on first run
+│   ├── sample.txt                ← Auto-generated on first run
 │   └── README.md
 │
 └── Task6_BankingSystem/
