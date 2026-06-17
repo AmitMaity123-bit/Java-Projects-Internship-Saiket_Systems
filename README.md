@@ -1,4 +1,4 @@
-````markdown
+
 <h3 align="center">SaiKet Systems | Java Internship Program</h3>
 
 <p align="center">
