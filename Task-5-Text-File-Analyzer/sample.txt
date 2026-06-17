@@ -1,0 +1,11 @@
+"Java is a high-level, class-based, object-oriented programming language.\n" +
+"It was designed to have as few implementation dependencies as possible.\n\n" +
+"Java is a general-purpose programming language intended to let programmers\n" +
+"write once, run anywhere (WORA). Compiled Java code can run on all platforms\n" +
+"that support Java without the need for recompilation.\n\n" +
+"Java applications are typically compiled to bytecode that can run on any\n" +
+"Java virtual machine (JVM) regardless of the underlying computer architecture.\n\n" +
+"The syntax of Java is similar to C and C++, but has fewer low-level facilities\n" +
+"than either of them. Java is one of the most popular programming languages in use.\n\n" +
+"SaiKet Systems teaches Java programming through hands-on projects and tasks!\n" +
+"Practice makes perfect. Keep coding, keep learning, keep growing every day.";
